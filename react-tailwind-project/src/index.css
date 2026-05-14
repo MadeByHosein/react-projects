@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 @layer utilities {
+  
  .animate-in{
   animation-fill-mode: both ;
   }
